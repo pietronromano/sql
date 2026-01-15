@@ -48,6 +48,10 @@ public class TestApp {
             System.out.println("Couldn't load db.properties file:");
             e.printStackTrace();
         }
+
+
+        String user = "postgres";
+
         // 2. Read the props
         String user = props.getProperty("user");
         String password = props.getProperty("password");

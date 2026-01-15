@@ -1,6 +1,10 @@
 # postgresql
 PostgreSQL Examples
 
+
+References:
+- Brad Traversy: https://www.devsheets.io/sheets/postgresql-advanced
+
 ---
 
 # Install PostreSQL
